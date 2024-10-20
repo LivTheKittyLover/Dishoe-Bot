@@ -1,2 +1,2 @@
 # Dishoe-Bot
-DIscord hoe bot
+DIscord bot
